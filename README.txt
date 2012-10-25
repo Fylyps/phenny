@@ -1,3 +1,5 @@
+Good tutorial: https://github.com/myano/jenni/wiki/How-to-create-a-phenny-module
+
 Installation &c.
 
 1) Run ./phenny - this creates a default config file
